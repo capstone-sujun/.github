@@ -1,1 +1,1 @@
-# GBSW Capstone Project - Sujun sex
+# GBSW Capstone Project - Sujun
