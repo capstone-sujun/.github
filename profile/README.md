@@ -2,19 +2,21 @@
 
 <h2>팀원 소개</h2>
 <h3>이준호(팀장)</h3>
-<img src="https://user-images.githubusercontent.com/88388142/209081535-f8e415b3-2d9a-4ed7-a8c0-36d384b0cf6e.png" width="20%" height="30%"><br>
+<img src="https://user-images.githubusercontent.com/88388142/209081535-f8e415b3-2d9a-4ed7-a8c0-36d384b0cf6e.png" width="20%" height="30%">
 <a><b>역할</b></a><br>
 <li>외형제작</li>
 <li>센서 작동 개발</li>
 <li>발표자료 제작</li>
+<br>
 <img src="https://img.shields.io/badge/glwnsgh123@icloud.com-FFFFFF?style=flat-square&logo=icloud&logoColor=blue"/> 
 
 <h3>한수호</h3>
-<img src="https://user-images.githubusercontent.com/88388142/209081580-4f550900-9fe8-4bbf-8d84-ac8b72df7b81.png" width="20%" height="30%"><br>
+<img src="https://user-images.githubusercontent.com/88388142/209081580-4f550900-9fe8-4bbf-8d84-ac8b72df7b81.png" width="20%" height="30%">
 <a><b>역할</b></a><br>
 <li>외형제작</li>
 <li>센서 작동 개발</li>
 <li>발표자료 제작</li>
+<br>
 <img src="https://img.shields.io/badge/jsuho7321j@naver.com-FFFFFF?style=flat-square&logo=naver&logoColor="/>
 
 <h2>프로젝트 소개</h2>
