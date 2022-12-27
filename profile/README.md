@@ -7,7 +7,7 @@
 <li>외형제작</li>
 <li>센서 작동 개발</li>
 <li>발표자료 제작</li>
-<br>
+
 E-Mail <img src="https://img.shields.io/badge/glwnsgh123@icloud.com-FFFFFF?style=flat-square&logo=icloud&logoColor=blue"/> 
 
 <h3>한수호</h3>
@@ -16,7 +16,7 @@ E-Mail <img src="https://img.shields.io/badge/glwnsgh123@icloud.com-FFFFFF?style
 <li>외형제작</li>
 <li>센서 작동 개발</li>
 <li>발표자료 제작</li>
-<br>
+
 E-Mail <img src="https://img.shields.io/badge/jsuho7321j@naver.com-FFFFFF?style=flat-square&logo=naver&logoColor="/>
 
 <h2>프로젝트 소개</h2>
