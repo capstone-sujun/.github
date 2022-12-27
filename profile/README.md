@@ -1,7 +1,5 @@
 # GBSW Capstone Project - Sujun
 
-https://user-images.githubusercontent.com/88388142/209667979-92ea3135-e649-4b47-87c8-7f22d84e5f26.mp4
-
 <h2>팀원 소개</h2>
 <h3>이준호(팀장)</h3>
 <img src="https://user-images.githubusercontent.com/88388142/209081535-f8e415b3-2d9a-4ed7-a8c0-36d384b0cf6e.png" width="20%" height="30%">
